@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: rxj1713_lit_review.aux
+The style file: humannat.bst
+Database file #1: bibliography.bib
+You're missing a field name---line 403 of file bibliography.bib
+ : 
+ : % journal = {\apjs},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in 2012ApJ...751...65F
+Warning--empty journal in 2005ApJ...631..947M
+You've used 36 entries,
+            2155 wiz_defined-function locations,
+            750 strings with 22485 characters,
+and the built_in function-call counts, 32886 in all, are:
+= -- 2558
+> -- 3570
+< -- 8
++ -- 1396
+- -- 1396
+* -- 3703
+:= -- 6121
+add.period$ -- 108
+call.type$ -- 36
+change.case$ -- 874
+chr.to.int$ -- 36
+cite$ -- 38
+duplicate$ -- 530
+empty$ -- 1003
+format.name$ -- 1442
+if$ -- 5785
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 36
+newline$ -- 183
+num.names$ -- 112
+pop$ -- 814
+preamble$ -- 1
+purify$ -- 874
+quote$ -- 0
+skip$ -- 388
+stack$ -- 0
+substring$ -- 983
+swap$ -- 90
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 216
+warning$ -- 2
+while$ -- 111
+width$ -- 0
+write$ -- 468
+(There was 1 error message)

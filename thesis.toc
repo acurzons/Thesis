@@ -1,0 +1,61 @@
+\contentsline {section}{\numberline {1}Introductory Background}{5}
+\contentsline {subsection}{\numberline {1.1}Cosmic Ray and Gamma-ray Astronomy}{5}
+\contentsline {subsection}{\numberline {1.2}Parent Particle Populations}{6}
+\contentsline {subsection}{\numberline {1.3}Hadronic Model}{7}
+\contentsline {subsubsection}{\numberline {1.3.1}Threshold Energy}{8}
+\contentsline {subsection}{\numberline {1.4}Leptonic Model}{8}
+\contentsline {subsubsection}{\numberline {1.4.1}Inverse Compton Scattering}{8}
+\contentsline {subsubsection}{\numberline {1.4.2}Synchrotron Radiation}{10}
+\contentsline {subsubsection}{\numberline {1.4.3}Relativistic Bremsstrahlung}{10}
+\contentsline {subsection}{\numberline {1.5}Energy Conversion and Cooling Times}{11}
+\contentsline {subsection}{\numberline {1.6}Age of SNRs}{12}
+\contentsline {subsection}{\numberline {1.7}Time Evolution of SNRs}{13}
+\contentsline {subsection}{\numberline {1.8}Spectral Energy Distribution}{13}
+\contentsline {subsection}{\numberline {1.9}Diffusion}{13}
+\contentsline {subsection}{\numberline {1.10}Electron Energy}{14}
+\contentsline {subsection}{\numberline {1.11}Telescopes}{14}
+\contentsline {subsubsection}{\numberline {1.11.1}HESS}{14}
+\contentsline {subsubsection}{\numberline {1.11.2}\textbf {\textit {Suzaku}}}{14}
+\contentsline {subsubsection}{\numberline {1.11.3}Fermi-LAT}{14}
+\contentsline {subsubsection}{\numberline {1.11.4}Parkes Radio Telescope}{14}
+\contentsline {subsubsection}{\numberline {1.11.5}Australian Compact Telescope Array}{14}
+\contentsline {subsubsection}{\numberline {1.11.6}Mopra}{14}
+\contentsline {subsubsection}{\numberline {1.11.7}Nanten}{14}
+\contentsline {subsection}{\numberline {1.12}Gas Tracers}{14}
+\contentsline {section}{\numberline {2}RX J1713.7-3946}{15}
+\contentsline {section}{\numberline {3}Observations Towards RX J1713.7-3946}{22}
+\contentsline {subsection}{\numberline {3.1}HESS $\gamma $-ray Observations}{22}
+\contentsline {subsection}{\numberline {3.2}\textbf {\textit {Suzaku}} X-Ray Observations}{23}
+\contentsline {subsection}{\numberline {3.3}Fermi-LAT Observations}{24}
+\contentsline {subsection}{\numberline {3.4}Gas and Radio Observations}{24}
+\contentsline {subsubsection}{\numberline {3.4.1}ATCA}{24}
+\contentsline {subsubsection}{\numberline {3.4.2}The Southern Galactic Plane Survey}{25}
+\contentsline {subsubsection}{\numberline {3.4.3}Mopra}{26}
+\contentsline {subsubsection}{\numberline {3.4.4}Nanten}{27}
+\contentsline {section}{\numberline {4}SED Modeling of RX J1713.7-3946 - Whole SNR Region}{29}
+\contentsline {subsection}{\numberline {4.1}Particle Distributions}{29}
+\contentsline {subsection}{\numberline {4.2}Leptonic Model}{31}
+\contentsline {subsection}{\numberline {4.3}Hadronic Model}{32}
+\contentsline {subsection}{\numberline {4.4}Combined Model}{33}
+\contentsline {section}{\numberline {5}Regional SED Modeling Towards RX J1713.7-3946}{35}
+\contentsline {subsection}{\numberline {5.1}Regional ISM Gas Density Calculations}{35}
+\contentsline {subsection}{\numberline {5.2}Hadronic Model}{37}
+\contentsline {subsubsection}{\numberline {5.2.1}SED Model}{37}
+\contentsline {subsubsection}{\numberline {5.2.2}$\mathbf {10^{50}}$ erg Energy Budget Model}{40}
+\contentsline {subsubsection}{\numberline {5.2.3}HESS Flux Data and Cooling Time Model}{41}
+\contentsline {subsubsection}{\numberline {5.2.4}Leptonic Model}{45}
+\contentsline {subsubsection}{\numberline {5.2.5}The Role of Bremsstrahlung}{47}
+\contentsline {subsubsection}{\numberline {5.2.6}Combined Modeling}{48}
+\contentsline {section}{\numberline {6}Correlation Studies of RX J1713.7-3946}{54}
+\contentsline {subsection}{\numberline {6.1}Gas and \textbf {$\gamma $}-rays Correlation Analysis}{54}
+\contentsline {subsection}{\numberline {6.2}Quantitative ISM Gas Density and $\gamma $-ray Flux Correlation Analysis}{55}
+\contentsline {subsubsection}{\numberline {6.2.1}Data Retrieval}{55}
+\contentsline {subsubsection}{\numberline {6.2.2}Error Analysis}{57}
+\contentsline {subsubsection}{\numberline {6.2.3}Data Analysis - Bootstrapping}{59}
+\contentsline {subsubsection}{\numberline {6.2.4}Results}{60}
+\contentsline {subsubsection}{\numberline {6.2.5}Discussion}{63}
+\contentsline {subsection}{\numberline {6.3}Quantitative $\gamma $-ray and X-ray Flux Correlation Analysis}{67}
+\contentsline {subsection}{\numberline {6.4}Quantitative ISM Gas Density and X-ray Flux Correlation Analysis}{67}
+\contentsline {section}{\numberline {7}Diffusion}{68}
+\contentsline {section}{Appendices}{77}
+\contentsline {section}{\numberline {A}}{77}
