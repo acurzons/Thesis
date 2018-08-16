@@ -1024,7 +1024,7 @@ where we have included the extra factor of 2 to account for the molecular to ato
 
 
 \subsubsection{Data Analysis - Bootstrapping}
-To quantify the correlation between the gas density and the $\gamma$-ray flux we utilised the Pearson correlation coefficient, $\rho$, (equation \ref{eq:pearsons}). The Pearson correlation coefficient is a measure of the linear correlation between two variables and takes on a value between -1 and +1. A value of +1 indicates a perfect, positive-linear relationship, a value of 0 indicates no linear relationship and a value of -1 indicates a perfect, negative-linear relationship. 
+To quantify the correlation between the gas density and the $\gamma$-ray flux we calculate the Pearson correlation coefficient, $\rho$, (equation \ref{eq:pearsons}) for the 9 pixels in each region. The Pearson correlation coefficient is a measure of the linear correlation between two variables and takes on a value between -1 and +1. A value of +1 indicates a perfect, positive-linear relationship, a value of 0 indicates no linear relationship and a value of -1 indicates a perfect, negative-linear relationship. 
 \begin{equation}\label{eq:pearsons}
 \rho = \dfrac{\mathrm{cov}(X,Y)}{\sigma_X \sigma_Y}
 \end{equation}
@@ -1037,13 +1037,11 @@ where n is the number of measurements in the data set, $x_i$ and $y_i$ are the i
 \sigma_X = \sqrt{\dfrac{\sum_{i=1}^n (x_i - \bar{x})^2}{n -1}}
 \end{equation}
 
-If we expect the hadronic scenario to be dominant, then the relationship between the $\gamma$-ray flux and the gas density should be positive amd linear, recall equation \ref{eq:5},
+If we expect the hadronic scenario to be dominant, then the relationship between the $\gamma$-ray flux and the gas density should be positive and linear, recall equation \ref{eq:5},
 \begin{equation} 
 \Phi_{\gamma} = 4 \pi n_H \int \dfrac{d\sigma}{dE_\gamma} \dfrac{dN_p}{dE_p} dE_p \ .
 \end{equation}
 Whereas, if the hadronic scenario is not dominant, this positive-linear relationship shouldn't be observed. 
-
-The 9 pixels in each region were used as the data sets and we analysed the gas density maps from Mopra and NANTEN separately. 
 
 Since $\rho$ doesn't incorporate the individual error from each data point, we employ a bootstrapping technique. 
 We take each data point from the set and randomly re-distribute it in both x and y directions assuming it follows a normal distribution. 
@@ -1069,7 +1067,9 @@ We take our original $\rho$ to be our final value but we quote the significance 
 
 
 \subsubsection{Results}
-Table \ref{tab:gasgammacor} presents the Pearson correlation coefficient, $\rho$, for the gas density and $\gamma$-ray flux in each region and for both Mopra and NANTEN data sets. Additionally, the optimistic (3 $\sigma$) value, $\rho_\mathrm{o}$, is specified along with its significance.
+We performed our correlation analysis using both the Mopra and Nanten data sets separately. 
+Table \ref{tab:gasgammacor} presents the Pearson correlation coefficient, $\rho$, for the gas density and $\gamma$-ray flux in each region. 
+Additionally, the optimistic (3 $\sigma$) value, $\rho_\mathrm{o}$, is specified along with its significance.
 \begin{table}[H] 
 	\centering
 	\begin{tabular}{ccccccccc}
@@ -1115,31 +1115,36 @@ Table \ref{tab:gasgammacor} presents the Pearson correlation coefficient, $\rho$
 	\caption{The calculated Pearson correlation coefficient, the optimistic Pearson coefficient and the associated significance, for the gas density and the HESS $\gamma$-ray flux ($> 2$ TeV) data for each region and for both Mopra and NANTEN data sets.}
 	\label{tab:gasgammacor}
 \end{table}
-A scatter plot for each region was also produced and fitted with a line of best fit, illustrating the correlation between the gas density and the HESS $\gamma$-rays. Figure \ref{fig:regionalgasgammacormop} illustrates some such plots with the gas density calculated with the Mopra data. Only plots for regions which contained significant correlations are illustrated.
 
+A scatter plot for each region was also produced and fitted with a line of best fit, illustrating the correlation between the gas density and the HESS $\gamma$-rays. 
+Figure \ref{fig:regionalgasgammacormop} illustrates some such plots, with the gas density calculated with the Mopra data. 
 
 \begin{figure}[H]
 	\begin{subfigure}{0.5\textwidth}
 		\centering
-		\includegraphics[width=0.95\linewidth, height=0.27\textheight]{gamma_mHI_reg3}
-		\label{fig:gmHIreg3}
+		\includegraphics[width=0.95\linewidth, height=0.25\textheight]{gamma_mHI_reg3}
 	\end{subfigure}
 	\begin{subfigure}{0.5\textwidth}
 		\centering
-		\includegraphics[width=0.9\linewidth, height=0.27\textheight]{gamma_mHI_reg4}
-		\label{fig:gmHIreg4}
+		\includegraphics[width=0.9\linewidth, height=0.25\textheight]{gamma_mHI_reg4}
 	\end{subfigure}
 	\begin{subfigure}{0.5\textwidth}
 		\centering
-		\includegraphics[width=0.9\linewidth, height=0.27\textheight]{gamma_mHI_reg14}
-		\label{fig:gmHIreg14}
+		\includegraphics[width=0.95\linewidth, height=0.25\textheight]{gamma_mHI_reg12}
 	\end{subfigure}
 	\begin{subfigure}{0.5\textwidth}
 		\centering
-		\includegraphics[width=0.9\linewidth, height=0.27\textheight]{gamma_mHI_reg16}
-		\label{fig:gmHIreg16}
+		\includegraphics[width=0.9\linewidth, height=0.25\textheight]{gamma_mHI_reg14}
 	\end{subfigure}
-	\caption{Correlation plots between the ISM gas density and $\gamma$-ray flux using the Mopra $^{12}$CO data for the molecular component of the gas density. The line of best fit for each data set is shown in black, while the grey area illustrates the confidence bands. Regions that display significant correlations are shown.}
+	\begin{subfigure}{0.5\textwidth}
+		\centering
+		\includegraphics[width=0.9\linewidth, height=0.25\textheight]{gamma_mHI_reg16}
+	\end{subfigure}
+	\begin{subfigure}{0.5\textwidth}
+	\centering
+	\includegraphics[width=0.95\linewidth, height=0.25\textheight]{gamma_mHI_reg18}
+	\end{subfigure}
+	\caption{Correlation plots between the ISM gas density and $\gamma$-ray flux using the Mopra $^{12}$CO data for the molecular component of the gas density. The line of best fit for each data set is shown in black, while the grey area illustrates the confidence bands. Regions with correlations that have at least a 3$\sigma$ significance are shown.}
 	\label{fig:regionalgasgammacormop}
 \end{figure}
 
