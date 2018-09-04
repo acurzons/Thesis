@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=latex 2017.3.22)  16 AUG 2018 11:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=latex 2017.3.22)  3 SEP 2018 09:58
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -267,6 +267,27 @@ LaTeX Warning: Label `fig:rxj1713lephad22' multiply defined.
 LaTeX Warning: Label `sub@fig:rxj1713lephad22' multiply defined.
 
 
+LaTeX Warning: Label `fig:corsigmap' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:corsigmap' multiply defined.
+
+
+LaTeX Warning: Label `fig:wpratiomap' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:wpratiomap' multiply defined.
+
+
+LaTeX Warning: Label `fig:corsigmap' multiply defined.
+
+
+LaTeX Warning: Label `fig:corsigmap' multiply defined.
+
+
+LaTeX Warning: Label `tab:gasgammacor' multiply defined.
+
+
 LaTeX Warning: Label `tab:gasgammacor' multiply defined.
 
 )
@@ -371,100 +392,115 @@ Underfull \hbox (badness 10000) in paragraph at lines 230--231
 
  []
 
-[12] [13] [14] [15] [16] [17] [18] [19]
+[12] [13] [14] [15] [16]
 File: HESS_subregions.ps Graphic file (type eps)
- <HESS_subregions.ps> [20]
-Overfull \hbox (13.86769pt too wide) in paragraph at lines 343--344
+ <HESS_subregions.ps>
+Overfull \hbox (13.86769pt too wide) in paragraph at lines 339--340
 [][]\OT1/cmr/m/n/12 The ma-jor-ity of stud-ies dis-cussed have failed to ad-dre
 ss the im-por-tance of Bremsstrahlung
  []
 
-[21]
+[17] [18]
 File: hess_map.ps Graphic file (type eps)
- <hess_map.ps> [22]
+ <hess_map.ps> [19]
 File: suzaku_map.ps Graphic file (type eps)
- <suzaku_map.ps> [23]
+ <suzaku_map.ps> [20]
 File: atca_map.ps Graphic file (type eps)
- <atca_map.ps> [24] [25]
+ <atca_map.ps> [21] [22]
 File: SGPS_HI_map.ps Graphic file (type eps)
 
 <SGPS_HI_map.ps>
 File: mopra_map.ps Graphic file (type eps)
- <mopra_map.ps> [26]
+ <mopra_map.ps> [23]
 File: nanten_map.ps Graphic file (type eps)
- <nanten_map.ps> [27] [28] [29]
-Underfull \hbox (badness 10000) in paragraph at lines 480--482
+ <nanten_map.ps> [24] [25] [26]
+Underfull \hbox (badness 10000) in paragraph at lines 476--478
 
  []
 
 File: rxj1713_spectrum_both.ps Graphic file (type eps)
 <rxj1713_spectrum_both.ps>
-Underfull \hbox (badness 10000) in paragraph at lines 495--496
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
 
  []
 
-[30]
+[27]
 File: rxj1713_lep.ps Graphic file (type eps)
  <rxj1713_lep.ps>
-Overfull \hbox (16.42564pt too wide) in paragraph at lines 497--503
+Overfull \hbox (16.42564pt too wide) in paragraph at lines 493--499
 \OT1/cmr/m/n/12 and also in-cludes the Bremsstrahlung con-tri-bu-tion, which HE
 SS did not. The Bremsstrahlung
  []
 
-[31]
+[28]
 File: rxj1713_had.ps Graphic file (type eps)
- <rxj1713_had.ps> [32]
+ <rxj1713_had.ps> [29]
 File: rxj1713_comb.ps Graphic file (type eps)
- <rxj1713_comb.ps> [33] [34]
+ <rxj1713_comb.ps> [30]
 
-LaTeX Warning: Reference `' on page 35 undefined on input line 550.
+LaTeX Warning: Reference `' on page 31 undefined on input line 546.
 
 File: sgps+nanten_regmap.ps Graphic file (type eps)
-<sgps+nanten_regmap.ps> [35] [36]
-File: rxj1713_had5.ps Graphic file (type eps)
- <rxj1713_had5.ps>
+<sgps+nanten_regmap.ps> [31] [32]
+
+LaTeX Warning: Reference `fig:parammaps' on page 33 undefined on input line 592
+.
+
+File: Wpmap.ps Graphic file (type eps)
+<Wpmap.ps>
+File: alphamap.ps Graphic file (type eps)
+ <alphamap.ps>
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 604--612
+[][]$[]$ $[]$ 
+ []
+
+[33]
 File: rxj1713_had15.ps Graphic file (type eps)
  <rxj1713_had15.ps>
 File: rxj1713_had16.ps Graphic file (type eps)
-
-<rxj1713_had16.ps>
+ <rxj1713_had16.ps>
 File: rxj1713_had21.ps Graphic file (type eps)
  <rxj1713_had21.ps>
 File: rxj1713_had22.ps Graphic file (type eps)
- <rxj1713_had22.ps>
+
+<rxj1713_had22.ps>
+File: rxj1713_had26.ps Graphic file (type eps)
+ <rxj1713_had26.ps>
 File: rxj1713_had24.ps Graphic file (type eps)
  <rxj1713_had24.ps>
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 592--622
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 617--647
 [][]$[]$ $[]$
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 592--622
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 617--647
 []$ $[]$
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 592--622
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 617--647
 []$ $[]$ 
  []
 
-[37] [38]
+[34] [35]
 File: rxj1713_had_cumsum.ps Graphic file (type eps)
  <rxj1713_had_cumsum.ps>
 
-LaTeX Warning: Reference `' on page 39 undefined on input line 637.
+LaTeX Warning: Reference `' on page 36 undefined on input line 663.
 
-[39] [40] [41] [42] [43]
+[36] [37] [38]
+File: R_coolSEDmap.ps Graphic file (type eps)
+ <R_coolSEDmap.ps> [39] [40]
 Overfull \vbox (10.51584pt too high) has occurred while \output is active []
 
 
-[44] [45] [46]
-Overfull \hbox (15.66074pt too wide) in paragraph at lines 794--795
+[41] [42] [43]
+Overfull \hbox (15.66074pt too wide) in paragraph at lines 837--838
 [][]\OT1/cmr/m/n/12 The main fea-ture of in-ter-est re-gard-ing the pure Lep-to
 nic model is whether Bremsstrahlung
  []
 
-[47]
+[44]
 File: rxj1713_lephad1.ps Graphic file (type eps)
  <rxj1713_lephad1.ps>
 File: rxj1713_lephad4.ps Graphic file (type eps)
@@ -478,135 +514,152 @@ File: rxj1713_lephad16.ps Graphic file (type eps)
  <rxj1713_lephad16.ps>
 File: rxj1713_lephad22.ps Graphic file (type eps)
  <rxj1713_lephad22.ps>
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 799--829
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 842--872
 [][]$[]$ $[]$
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 799--829
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 842--872
 []$ $[]$
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 799--829
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 842--872
 []$ $[]$ 
  []
 
 
-LaTeX Warning: Reference `2008ApJ...685..988T' on page 48 undefined on input li
-ne 834.
+LaTeX Warning: Reference `2008ApJ...685..988T' on page 45 undefined on input li
+ne 877.
 
 
-LaTeX Warning: Reference `fig:moprahesssubregions' on page 48 undefined on inpu
-t line 834.
+LaTeX Warning: Reference `fig:moprahesssubregions' on page 45 undefined on inpu
+t line 877.
 
-[48]
+[45]
 File: rxj1713_comb10.ps Graphic file (type eps)
  <rxj1713_comb10.ps>
 File: rxj1713_comb21.ps Graphic file (type eps)
- <rxj1713_comb21.ps> [49]
+ <rxj1713_comb21.ps> [46]
 File: rxj1713_comb3.ps Graphic file (type eps)
  <rxj1713_comb3.ps>
 File: rxj1713_comb22.ps Graphic file (type eps)
 
-<rxj1713_comb22.ps> [50]
+<rxj1713_comb22.ps> [47]
 File: rxj1713_comb7.ps Graphic file (type eps)
- <rxj1713_comb7.ps> [51]
+ <rxj1713_comb7.ps> [48]
 File: rxj1713_comb18.ps Graphic file (type eps)
  <rxj1713_comb18.ps>
-Overfull \hbox (9.1827pt too wide) in paragraph at lines 889--908
+Overfull \hbox (9.1827pt too wide) in paragraph at lines 932--951
  [][] 
  []
 
-[52] [53]
+[49] [50]
 File: mopra_regmap_hesscont.ps Graphic file (type eps)
- <mopra_regmap_hesscont.ps> [54] [55]
-File: hess_9pixels.ps Graphic file (type eps)
- <hess_9pixels.ps>
-Overfull \hbox (11.38304pt too wide) in paragraph at lines 962--963
- [][][] 
- []
+ <mopra_regmap_hesscont.ps> [51] [52] [53]
+File: rxj1713_9regrid_HESS.ps Graphic file (type eps)
+ <rxj1713_9regrid_HESS.ps>
+File: rxj1713_9regrid_Mopra.ps Graphic file (type eps)
 
-File: mopra_9pixels.ps Graphic file (type eps)
-<mopra_9pixels.ps>
-Overfull \hbox (11.38304pt too wide) in paragraph at lines 966--967
- [][][] 
- []
+<rxj1713_9regrid_Mopra.ps>
+File: rxj1713_9regrid_SGPS.ps Graphic file (type eps)
+ <rxj1713_9regrid_SGPS.ps>
+File: rxj1713_9regrid_Mopra+SGPS.ps Graphic file (type eps)
 
-File: HI_9pixels.ps Graphic file (type eps)
-<HI_9pixels.ps>
-Overfull \hbox (11.38304pt too wide) in paragraph at lines 970--971
- [][][] 
- []
-
-File: mopra_HI_9pixels.ps Graphic file (type eps)
-<mopra_HI_9pixels.ps>
-Overfull \hbox (11.38304pt too wide) in paragraph at lines 974--975
- [][][] 
- []
-
-
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 960--976
+<rxj1713_9regrid_Mopra+SGPS.ps>
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1031--1047
 [][]$[]$ $[]$
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 960--976
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1031--1047
 []$ $[]$ 
  []
 
-[56] [57] [58]
-Overfull \hbox (5.93443pt too wide) in paragraph at lines 1043--1046
-[]\OT1/cmr/m/n/12 Whereas, if the hadronic sce-nario is not dom-i-nant, this po
-sitive-linear re-la-tion-ship shouldn't
- []
-
-[59]
+[54] [55] [56]
 File: bootstrap_example.ps Graphic file (type eps)
  <bootstrap_example.ps>
 File: gammopHI_reg1.ps Graphic file (type eps)
  <gammopHI_reg1.ps>
-Overfull \hbox (2.61107pt too wide) in paragraph at lines 1050--1058
+Overfull \hbox (2.61107pt too wide) in paragraph at lines 1139--1147
 [][]$[]$ $[]$ 
  []
 
-[60] [61]
+[57] [58] [59]
 File: gamma_mHI_reg3.ps Graphic file (type eps)
  <gamma_mHI_reg3.ps>
 File: gamma_mHI_reg4.ps Graphic file (type eps)
  <gamma_mHI_reg4.ps>
+File: gamma_mHI_reg12.ps Graphic file (type eps)
+ <gamma_mHI_reg12.ps>
 File: gamma_mHI_reg14.ps Graphic file (type eps)
- <gamma_mHI_reg14.ps>
-File: gamma_mHI_reg16.ps Graphic file (type eps)
 
-<gamma_mHI_reg16.ps>
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 1116--1136
+<gamma_mHI_reg14.ps>
+File: gamma_mHI_reg16.ps Graphic file (type eps)
+ <gamma_mHI_reg16.ps>
+File: gamma_mHI_reg18.ps Graphic file (type eps)
+ <gamma_mHI_reg18.ps>
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1209--1233
 [][]$[]$ $[]$
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 1116--1136
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1209--1233
+[]$ $[]$
+ []
+
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1209--1233
 []$ $[]$ 
  []
 
-[62]
+[60]
 File: pearsonmap_gam_mopHI.ps Graphic file (type eps)
  <pearsonmap_gam_mopHI.ps>
-File: mopra_HI_hesscont.ps Graphic file (type eps)
- <mopra_HI_hesscont.ps>
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 1148--1158
-[][]$[]$ $[]$ 
+File: pearsonmap_gam_mopHI_trimmed.ps Graphic file (type eps)
+ <pearsonmap_gam_mopHI_trimmed.ps>
+File: pearsonmap_gam_nanHI.ps Graphic file (type eps)
+
+<pearsonmap_gam_nanHI.ps>
+File: pearsonmap_gam_nanHI_trimmed.ps Graphic file (type eps)
+ <pearsonmap_gam_nanHI_trimmed.ps>
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1252--1272
+[][]$[]$ $[]$
  []
 
-[63] [64] [65]
-File: Wp_ratio_map.ps Graphic file (type eps)
- <Wp_ratio_map.ps> [66]
+
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1252--1272
+[]$ $[]$ 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[61] [62]
+File: NH_mopHI_hcont_reg.ps Graphic file (type eps)
+ <NH_mopHI_hcont_reg.ps>
+Overfull \hbox (6.31111pt too wide) in paragraph at lines 1315--1322
+[][]\OT1/cmr/m/n/12 The $\OML/cmm/m/it/12 ^^M$\OT1/cmr/m/n/12 -ray shell is ob-
+served to ex-tend be-yond the X-ray syn-chrotron shell (H. E. S. S. Col-
+ []
+
+
+LaTeX Warning: Reference `fig:pearson gamgas trimmed map' on page 63 undefined 
+on input line 1325.
+
+File: pearsonmap_gam_mopHI_trimmed.ps Graphic file (type eps)
+<pearsonmap_gam_mopHI_trimmed.ps> [63]
+File: pearsonmap_gam_nanHI_trimmed.ps Graphic file (type eps)
+ <pearsonmap_gam_nanHI_trimmed.ps>
+[64] [65]
+File: nH_alpha_correlation.ps Graphic file (type eps)
+ <nH_alpha_correlation.ps> [66]
 File: Np_mopra_13pixels.ps Graphic file (type eps)
  <Np_mopra_13pixels.ps>
 File: suzaku_13pixelrebin.ps Graphic file (type eps)
 
 <suzaku_13pixelrebin.ps>
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 1196--1208
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1415--1427
 [][]$[]$ $[]$ 
  []
 
@@ -627,7 +680,7 @@ File: nanten_9pixels.ps Graphic file (type eps)
  <nanten_9pixels.ps>
 File: nanten_HI_9pixels.ps Graphic file (type eps)
  <nanten_HI_9pixels.ps>
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 1256--1264
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1475--1483
 [][]$[]$ $[]$ 
  []
 
@@ -644,17 +697,17 @@ File: gamma_nHI_reg15.ps Graphic file (type eps)
  <gamma_nHI_reg15.ps>
 File: gamma_nHI_reg21.ps Graphic file (type eps)
  <gamma_nHI_reg21.ps>
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 1270--1300
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1489--1519
 [][]$[]$ $[]$
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 1270--1300
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1489--1519
 []$ $[]$
  []
 
 
-Overfull \hbox (2.61108pt too wide) in paragraph at lines 1270--1300
+Overfull \hbox (2.61108pt too wide) in paragraph at lines 1489--1519
 []$ $[]$ 
  []
 
@@ -671,12 +724,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5015 strings out of 493015
- 72687 string characters out of 6133377
+ 5032 strings out of 493015
+ 73188 string characters out of 6133377
  182703 words of memory out of 5000000
- 8439 multiletter control sequences out of 15000+600000
+ 8448 multiletter control sequences out of 15000+600000
  19258 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,20n,40p,2505b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.dvi (82 pages, 262636 bytes).
+Output written on thesis.dvi (82 pages, 253020 bytes).

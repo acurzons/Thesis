@@ -23,39 +23,39 @@
 \contentsline {subsubsection}{\numberline {1.11.7}Nanten}{14}
 \contentsline {subsection}{\numberline {1.12}Gas Tracers}{14}
 \contentsline {section}{\numberline {2}RX J1713.7-3946}{15}
-\contentsline {section}{\numberline {3}Observations Towards RX J1713.7-3946}{22}
-\contentsline {subsection}{\numberline {3.1}HESS $\gamma $-ray Observations}{22}
-\contentsline {subsection}{\numberline {3.2}\textbf {\textit {Suzaku}} X-Ray Observations}{23}
-\contentsline {subsection}{\numberline {3.3}Fermi-LAT Observations}{24}
-\contentsline {subsection}{\numberline {3.4}Gas and Radio Observations}{24}
-\contentsline {subsubsection}{\numberline {3.4.1}ATCA}{24}
-\contentsline {subsubsection}{\numberline {3.4.2}The Southern Galactic Plane Survey}{25}
-\contentsline {subsubsection}{\numberline {3.4.3}Mopra}{26}
-\contentsline {subsubsection}{\numberline {3.4.4}Nanten}{27}
-\contentsline {section}{\numberline {4}SED Modeling of RX J1713.7-3946 - Whole SNR Region}{29}
-\contentsline {subsection}{\numberline {4.1}Particle Distributions}{29}
-\contentsline {subsection}{\numberline {4.2}Leptonic Model}{31}
-\contentsline {subsection}{\numberline {4.3}Hadronic Model}{32}
-\contentsline {subsection}{\numberline {4.4}Combined Model}{33}
-\contentsline {section}{\numberline {5}Regional SED Modeling Towards RX J1713.7-3946}{35}
-\contentsline {subsection}{\numberline {5.1}Regional ISM Gas Density Calculations}{35}
-\contentsline {subsection}{\numberline {5.2}Hadronic Model}{37}
-\contentsline {subsubsection}{\numberline {5.2.1}SED Model}{37}
-\contentsline {subsubsection}{\numberline {5.2.2}$\mathbf {10^{50}}$ erg Energy Budget Model}{40}
-\contentsline {subsubsection}{\numberline {5.2.3}HESS Flux Data and Cooling Time Model}{41}
-\contentsline {subsubsection}{\numberline {5.2.4}Leptonic Model}{45}
-\contentsline {subsubsection}{\numberline {5.2.5}The Role of Bremsstrahlung}{47}
-\contentsline {subsubsection}{\numberline {5.2.6}Combined Modeling}{48}
-\contentsline {section}{\numberline {6}Correlation Studies of RX J1713.7-3946}{54}
-\contentsline {subsection}{\numberline {6.1}Gas and \textbf {$\gamma $}-rays Correlation Analysis}{54}
-\contentsline {subsection}{\numberline {6.2}Quantitative ISM Gas Density and $\gamma $-ray Flux Correlation Analysis}{55}
-\contentsline {subsubsection}{\numberline {6.2.1}Data Retrieval}{55}
-\contentsline {subsubsection}{\numberline {6.2.2}Error Analysis}{57}
-\contentsline {subsubsection}{\numberline {6.2.3}Data Analysis - Bootstrapping}{59}
-\contentsline {subsubsection}{\numberline {6.2.4}Results}{60}
-\contentsline {subsubsection}{\numberline {6.2.5}Discussion}{63}
-\contentsline {subsection}{\numberline {6.3}Quantitative $\gamma $-ray and X-ray Flux Correlation Analysis}{67}
-\contentsline {subsection}{\numberline {6.4}Quantitative ISM Gas Density and X-ray Flux Correlation Analysis}{67}
+\contentsline {section}{\numberline {3}Observations Towards RX J1713.7-3946}{19}
+\contentsline {subsection}{\numberline {3.1}HESS $\gamma $-ray Observations}{19}
+\contentsline {subsection}{\numberline {3.2}\textbf {\textit {Suzaku}} X-Ray Observations}{20}
+\contentsline {subsection}{\numberline {3.3}Fermi-LAT Observations}{21}
+\contentsline {subsection}{\numberline {3.4}Gas and Radio Observations}{21}
+\contentsline {subsubsection}{\numberline {3.4.1}ATCA}{21}
+\contentsline {subsubsection}{\numberline {3.4.2}The Southern Galactic Plane Survey}{22}
+\contentsline {subsubsection}{\numberline {3.4.3}Mopra}{23}
+\contentsline {subsubsection}{\numberline {3.4.4}Nanten}{24}
+\contentsline {section}{\numberline {4}SED Modeling of RX J1713.7-3946 - Whole SNR Region}{26}
+\contentsline {subsection}{\numberline {4.1}Particle Distributions}{26}
+\contentsline {subsection}{\numberline {4.2}Leptonic Model}{27}
+\contentsline {subsection}{\numberline {4.3}Hadronic Model}{29}
+\contentsline {subsection}{\numberline {4.4}Combined Model}{30}
+\contentsline {section}{\numberline {5}Regional SED Modeling Towards RX J1713.7-3946}{31}
+\contentsline {subsection}{\numberline {5.1}Regional ISM Gas Density Calculations}{31}
+\contentsline {subsection}{\numberline {5.2}Hadronic Model}{33}
+\contentsline {subsubsection}{\numberline {5.2.1}SED Model}{33}
+\contentsline {subsubsection}{\numberline {5.2.2}$\mathbf {10^{50}}$ erg Energy Budget Model}{37}
+\contentsline {subsubsection}{\numberline {5.2.3}HESS Flux Data and Cooling Time Model}{38}
+\contentsline {subsubsection}{\numberline {5.2.4}Leptonic Model}{42}
+\contentsline {subsubsection}{\numberline {5.2.5}The Role of Bremsstrahlung}{44}
+\contentsline {subsubsection}{\numberline {5.2.6}Combined Modeling}{45}
+\contentsline {section}{\numberline {6}Correlation Studies of RX J1713.7-3946}{51}
+\contentsline {subsection}{\numberline {6.1}Gas and \textbf {$\gamma $}-rays Correlation Analysis}{51}
+\contentsline {subsection}{\numberline {6.2}Quantitative ISM Gas Density and $\gamma $-ray Flux Correlation Analysis}{52}
+\contentsline {subsubsection}{\numberline {6.2.1}Data Retrieval}{53}
+\contentsline {subsubsection}{\numberline {6.2.2}Error Analysis}{55}
+\contentsline {subsubsection}{\numberline {6.2.3}Data Analysis - Bootstrapping}{56}
+\contentsline {subsubsection}{\numberline {6.2.4}Results}{58}
+\contentsline {subsubsection}{\numberline {6.2.5}Discussion}{61}
+\contentsline {subsection}{\numberline {6.3}Quantitative $\gamma $-ray and X-ray Flux Correlation Analysis}{66}
+\contentsline {subsection}{\numberline {6.4}Quantitative ISM Gas Density and X-ray Flux Correlation Analysis}{66}
 \contentsline {section}{\numberline {7}Diffusion}{68}
 \contentsline {section}{Appendices}{77}
 \contentsline {section}{\numberline {A}}{77}
